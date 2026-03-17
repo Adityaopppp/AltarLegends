@@ -1,0 +1,6 @@
+name: AltarLegends
+version: 1.0
+main: com.altar.legends.AltarLegends
+api-version: 1.21
+commands:
+  givelegend:
