@@ -31,14 +31,6 @@
             <version>1.21.1-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
-
-        <!-- LibsDisguises API -->
-        <dependency>
-            <groupId>LibsDisguises</groupId>
-            <artifactId>LibsDisguises</artifactId>
-            <version>10.0.44</version>
-            <scope>provided</scope>
-        </dependency>
     </dependencies>
 
     <build>
